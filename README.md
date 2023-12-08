@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
 
-- 🌱 I’m currently learning **Frameworks for frontend development, and also the backend development for full-stack**
+- 🌱 I’m currently learning **Frameworks for frontend development, and also the backend development to become full-stack developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aBacoding](https://github.com/aBacoding)
 
