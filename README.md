@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I have been swimming for 10 years and soccer for 3 years.**
 
+<img align="right" alt="Coding" width="260" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abdu_bakytzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdu_bakytzhan" height="30" width="40" /></a>
