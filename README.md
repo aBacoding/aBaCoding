@@ -1,6 +1,6 @@
+<img align="center" alt="profile" width="400" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 <h1 align="center">Hi 👋, I'm Abdurakhim</h1>
 <h3 align="center">Hardworking frontend developer from Kazakhstan</h3>
-<img align="center" alt="profile" width="400" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abacoding&label=Profile%20views&color=0e75b6&style=flat" alt="abacoding" /> </p>
 
