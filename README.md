@@ -1,4 +1,3 @@
-<img align="center" alt="profile" width="400" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 <h1 align="center">Hi 👋, I'm Abdurakhim</h1>
 <h3 align="center">Hardworking frontend developer from Kazakhstan</h3>
 
