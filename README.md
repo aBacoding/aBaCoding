@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
 
-- 🌱 I’m currently learning **Frameworks for frontend development, and also the backend development to become full-stack developer**
+- 🌱 I’m currently learning **Vue.js for frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aBacoding](https://github.com/aBacoding)
 
