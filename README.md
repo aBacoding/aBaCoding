@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abacoding&label=Profile%20views&color=0e75b6&style=flat" alt="abacoding" /> </p>
 
+<img align="right" alt="Coding" width="260" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abacoding" alt="abacoding" /></a> </p>
 
 - 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
@@ -16,8 +18,6 @@
 - 📫 How to reach me **bakytzhanabdurakhim@gmail.com**
 
 - ⚡ Fun fact **I have been swimming for 10 years and soccer for 3 years.**
-
-<img align="right" alt="Coding" width="260" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
