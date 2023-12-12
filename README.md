@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abacoding" alt="abacoding" /></a> </p>
 
-<img align="right" alt="Profile" width="240" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
+<img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
 - 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
 
