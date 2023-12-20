@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
 
-- 🌱 I’m currently learning **Vue.js for frontend development**
+- 🌱 I’m currently learning **Next.js for frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aBacoding](https://github.com/aBacoding)
 
-- 💬 Ask me about **React, Next, Typescript, Javascript**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **bakytzhanabdurakhim@gmail.com**
 
