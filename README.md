@@ -7,7 +7,7 @@
 
 <img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
-- 🔭 I’m currently working on [FaceitStatsCS2](https://github.com/aBacoding/FaceitStatsCS2)
+- 🔭 I’m currently working on [Jujutsu Kaisen Anime News](https://github.com/aBacoding/react-jujutsu-kaisen-news)
 
 - 🌱 I’m currently learning **Next.js for frontend development**
 
