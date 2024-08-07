@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Jujutsu Kaisen Web application](https://github.com/aBacoding/Jujutsu-Kaisen)
 
-- 🌱 I’m currently learning **Vue.js for frontend development**
+- 🌱 I’m currently learning **Next.js for frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aBacoding](https://github.com/aBacoding)
 
