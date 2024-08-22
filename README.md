@@ -7,7 +7,7 @@
 
 <img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
-- 🔭 I’m currently working on [Jujutsu Kaisen Web application](https://github.com/aBacoding/Jujutsu-Kaisen)
+- 🔭 I’m currently working on [CryptoKazakh NFT Marketplace](https://github.com/aBacoding/CryptoKazakh)
 
 - 🌱 I’m currently learning **Next.js for frontend development**
 
