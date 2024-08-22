@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aBacoding](https://github.com/aBacoding)
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, Typescript**
 
 - 📫 How to reach me **bakytzhanabdurakhim@gmail.com**
 
