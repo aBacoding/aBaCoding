@@ -7,7 +7,7 @@
 
 <img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
-- 🔭 I’m currently working on [CryptoKazakh NFT Marketplace](https://github.com/aBacoding/CryptoKazakh)
+- 🔭 I’m currently working on [E-Commerce web application](https://github.com/wowarys/ad1202-final)
 
 - 🌱 I’m currently learning **Next.js for frontend development**
 
