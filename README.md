@@ -7,7 +7,7 @@
 
 <img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on **new project starting soon**
 
 - 🌱 I’m currently learning **Next.js for frontend development**
 
