@@ -5,7 +5,7 @@
 
 <img align="right" alt="Profile" width="220" src="https://media1.tenor.com/m/DSO-nqzTlCoAAAAd/ayanokoji.gif">
 
-- 🔭 I’m currently working on **Quizame (fast-paced quiz platform for creating, hosting, and playing knowledge-based games with friends, teams, or live audiences.)**
+- 🔭 I’m currently working on **Quizame** - fast-paced quiz platform for creating, hosting, and playing knowledge-based games with friends, teams, or live audiences
 
 - 🌱 I’m currently learning **Next.js for frontend development**
 
